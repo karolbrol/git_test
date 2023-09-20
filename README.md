@@ -1,3 +1,5 @@
 # git_test
-testing git functionalities 
+twoja stara
+testing  functionalities 
 test test
+
